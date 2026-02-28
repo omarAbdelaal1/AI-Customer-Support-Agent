@@ -87,4 +87,4 @@ To make this workflow operational on your machine, you must configure the follow
 
 **Omar Abdelaal** - [oabdelall2004@gmail.com](mailto:oabdelall2004@gmail.com)
 
-Project Link: [https://github.com/omarAbdelaal1/n8n-AI-Customer-Support](https://github.com/omarAbdelaal1/n8n-AI-Customer-Support)
+Project Link: [https://github.com/omarAbdelaal1/AI-Customer-Support-Agent.git]  (https://github.com/omarAbdelaal1/AI-Customer-Support-Agent.git)
